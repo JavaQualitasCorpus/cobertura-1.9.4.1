@@ -1,0 +1,6 @@
+projectKey=QC:QC_cobertura-1.9.4.1
+serverUrl=https://sonar.rd.tut.fi/sonar75
+serverVersion=7.5.0.20543
+dashboardUrl=https://sonar.rd.tut.fi/sonar75/dashboard?id=QC%3AQC_cobertura-1.9.4.1
+ceTaskId=AWlU-O0anbimOWNEd993
+ceTaskUrl=https://sonar.rd.tut.fi/sonar75/api/ce/task?id=AWlU-O0anbimOWNEd993
