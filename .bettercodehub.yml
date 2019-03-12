@@ -1,0 +1,30 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./antLibrary/.*
+- ./antLibrary/common/.*
+- ./antLibrary/common/groovy/.*
+- ./antLibrary/common/junit/.*
+- ./bin/.*
+- ./bin/com/.*
+- ./bin/com/example/.*
+- ./bin/com/example/simple/.*
+- ./bin/net/.*
+- ./bin/someotherpackage/.*
+- ./bin/test/.*
+- ./bin/test/condition/.*
+- ./bin/test/first/.*
+- ./bin/test/second/.*
+- ./etc/.*
+- ./etc/dtds/.*
+- ./examples/.*
+- ./examples/basic/.*
+- ./examples/functionalconditiontest/.*
+- ./examples/functionaltest1/.*
+- ./examples/groovy/.*
+- ./lib/.*
+- ./lib/xerces/.*
+- ./lib/xerces/2.6.2/.*
+- ./test/.*
+- ./test/net/.*
